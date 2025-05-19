@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Memory Flip - 두뇌 트레이닝 게임",
+    "description": "카드를 클릭하여 숨겨진 이미지를 확인하고 짝을 맞춰보세요! 기억력과 집중력을 테스트하는 재미있는 퍼즐 게임입니다.",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+            "32": "icon32.png",
+            "128": "icon128.png"
+        }
+    },
+    "icons": {
+        "32": "icon32.png",
+        "128": "icon128.png"
+    }
+}
